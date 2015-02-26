@@ -5,14 +5,15 @@ OBJECTIVE:
 I am looking for a summer internship in the field of computer science with an emphasis in big data,
 machine learning, or the implementation and creation of algorithms.
 
-WORK EXPERIENCE
-HDR, Inc. Claremont, CA	October 2011 - Present                                  Laboratory Technician	
--Testing and analysis of lab samples
+WORK EXPERIENCE:
+HDR, Inc. Claremont, CA                                                         Laboratory Technician	
+-Testing and analysis of lab samples                                            October 2011 - Present
 -Developed and implemented database solution for laboratory analysis, sample handling,
  job handling and invoicing, saving man hours and money for the company.
  
-Raging Waters Water Park, San Dimas, CA	Summers 2010 – 2014 (Seasonal)          Aquatics Lead 	
--Full CPR and Lifeguard certification, supervisory role over lifeguards, crisis management and response.
+Raging Waters Water Park, San Dimas, CA                                         Aquatics Lead 	
+-Full CPR and Lifeguard certification, supervisory role over lifeguards,        Summers 2010 – 2014 (Seasonal)
+ crisis management and response.
 
 EDUCATION:
 California State Polytechnic University, Pomona                                 September 2010 - Present
@@ -35,7 +36,7 @@ C/C++:
 -Experience with wringing code in C/C++ including pointers, dynamic memory allocation and objects.
 Matlab:
 -experience with writing code and general usage
-Linux
+Linux:
 -Basic knowledge and command line usage
 
 References Available Upon Request
