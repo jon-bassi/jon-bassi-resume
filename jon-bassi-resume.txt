@@ -18,12 +18,12 @@ Raging Waters Water Park, San Dimas, CA                                         
 EDUCATION:
 California State Polytechnic University, Pomona                                 September 2010 - Present
 B.S. in Computer Science                                                        Graduating June 2016
--C.S. GPA: >3.9
--Overall GPA: >3.0
+-C.S. GPA: 3.9
+-Overall GPA: 3.0
 Course Work
--Courses: Data structures and algorithms/algorithm analysis, MIPS assembly, GUIs, Statistics,
+-Courses: Machine learning, data structures and algorithms/algorithm analysis, MIPS assembly, GUIs, Statistics,
  Linear Algebra and Differential Equations, G.E.’s, as well as several mechanical engineering classes
--Senior Project: Research and implementation/programming of data mining and analysis tools with
+-Senior Project: Research and implementation/programming of text mining and analysis tools with
  a specific emphasis on social networks (Twitter, Facebook, etc.), data clustering and natural language processing.
  Using the Twitter API in order to resolve location/contextual data on specific events 
 
