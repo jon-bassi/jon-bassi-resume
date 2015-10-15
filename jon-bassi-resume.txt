@@ -2,14 +2,21 @@ Jonathan Bassi
 Email: jonbassi10@gmail.com
 
 OBJECTIVE:
-I am looking for a summer internship in the field of computer science with an emphasis in big data,
-machine learning, or the implementation and creation of algorithms.
+As a graduating senior, I am looking for a full-time career in the field of computer science, emphasizing my knowledge in the areas of machine learning, information retrieval, data analytics, and databases.
 
 WORK EXPERIENCE:
+California State Polytechnic University, Pomona                                 Assistant
+-Developed and implemented an auto-grading system in Java for use with          September 2015 - Present
+ assignments in the University's CS331 Algorithms course.
+-Assisted Professor, proctored exams, graded student work.
+ 
 HDR, Inc. Claremont, CA                                                         Laboratory Technician	
--Testing and analysis of lab samples                                            October 2011 - Present
--Developed and implemented database solution for laboratory analysis, sample handling,
- job handling and invoicing, saving man hours and money for the company.
+-Developed database frontend (Java) and backend (SQL) for inventory             October 2011 - Present
+ management and equipment upkeep.
+-Developed database frontend and backed for the analysis of data, data storage,
+ and handling of laboratory samples.
+-Overhauled laboratory handling of samples, developed the framework and
+ implementation to allow our lab to become completely paperless.
  
 Raging Waters Water Park, San Dimas, CA                                         Aquatics Lead 	
 -Full CPR and Lifeguard certification, supervisory role over lifeguards,        Summers 2010 – 2014 (Seasonal)
@@ -18,8 +25,8 @@ Raging Waters Water Park, San Dimas, CA                                         
 EDUCATION:
 California State Polytechnic University, Pomona                                 September 2010 - Present
 B.S. in Computer Science                                                        Graduating June 2016
--C.S. GPA: 3.9
--Overall GPA: 3.0
+-C.S. GPA: 3.75
+-Overall GPA: 3.1
 Course Work
 -Courses: Machine learning, data structures and algorithms/algorithm analysis, MIPS assembly, GUIs, Statistics,
  Linear Algebra and Differential Equations, G.E.’s, as well as several mechanical engineering classes
@@ -30,13 +37,15 @@ Course Work
 Programming Experience:
 Java: 
 -Proficient experience, knowledge of data structures, objects, algorithms, GUIs
--Various small projects (in school and outside of school) demonstrating what I've learned
+-Various small projects (in school and outside of school) demonstrating what I've learned.
     github: https://jon-bassi.github.io
+SQL:
+-mySQL database development experience
 C/C++:
 -Experience with wringing code in C/C++ including pointers, dynamic memory allocation and objects.
 Matlab:
--experience with writing code and general usage
+-experience with writing code and general usage.
 Linux:
--Basic knowledge and command line usage
+-Basic knowledge and command line usage.
 
 References Available Upon Request
