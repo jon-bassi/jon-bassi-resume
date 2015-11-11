@@ -2,7 +2,7 @@ Jonathan Bassi
 Email: jonbassi10@gmail.com
 
 OBJECTIVE:
-As a graduating senior, I am looking for a full-time career in the field of computer science, emphasizing my knowledge in the areas of machine learning, information retrieval, data analytics, and databases.
+As a graduating senior, I am looking for a full-time career in the field of computer science, emphasizing my knowledge in the areas of machine learning, natural language processing, information retrieval, data analytics, and databases.
 
 WORK EXPERIENCE:
 California State Polytechnic University, Pomona                                 Assistant
@@ -26,26 +26,29 @@ EDUCATION:
 California State Polytechnic University, Pomona                                 September 2010 - Present
 B.S. in Computer Science                                                        Graduating June 2016
 -C.S. GPA: 3.75
--Overall GPA: 3.1
+-Overall GPA: 3.3
 Course Work
--Courses: Machine learning, data structures and algorithms/algorithm analysis, MIPS assembly, GUIs, Statistics,
- Linear Algebra and Differential Equations, G.E.’s, as well as several mechanical engineering classes
--Senior Project: Research and implementation/programming of text mining and analysis tools with
- a specific emphasis on social networks (Twitter, Facebook, etc.), data clustering and natural language processing.
- Using the Twitter API in order to resolve location/contextual data on specific events 
+-Courses: General Computer Science coursework, machine learning (clustering, classification, neural networks), operating systems, assembly programming, computer architecture.
+-Senior Project: Research and implementation/programming of data mining and analysis tools with a specific emphasis on social networks (Twitter, Facebook, etc.), data clustering and natural language processing.  Using the Twitter API in order to resolve location/contextual data on specific events.
+-Developed web service for identifying local restaurant happy hours.  Utilizes PLAY framework on AWS Linux Server,    MySQL database.
+-Developed service to cluster and identify like phones based on attributes (size, weight, etc.).
+-Developed Microsoft Notepad clone in Java Swing.
 
 Programming Experience:
 Java: 
 -Proficient experience, knowledge of data structures, objects, algorithms, GUIs
--Various small projects (in school and outside of school) demonstrating what I've learned.
-    github: https://jon-bassi.github.io
+-website: https://jon-bassi.github.io
 SQL:
--mySQL database development experience
+-MySQL database development experience
 C/C++:
--Experience with wringing code in C/C++ including pointers, dynamic memory allocation and objects.
+-General working experience.
 Matlab:
--experience with writing code and general usage.
+-Experience with writing code and general usage.
 Linux:
 -Basic knowledge and command line usage.
+
+Other:
+-ACM Competition - November 2015
+-Computer Science Society
 
 References Available Upon Request
